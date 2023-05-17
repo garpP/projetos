@@ -1,9 +1,4 @@
 #nome:gabriel rodrigues peron | rgm:30509793
-#nome:daniel vitor da silva | rgm:29880301
-
-
-
-
 class Disciplina:
     def __init__(self, nome, codigo, frequencia, nota):
         self.nome = nome
@@ -269,4 +264,4 @@ def main():
 if __name__ == '__main__':
     main()
 
-            #aluno.adicionar_aluno()
+            
